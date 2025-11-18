@@ -1,2 +1,2 @@
-# neuralgarden
+# regulate
 CNS regulation
